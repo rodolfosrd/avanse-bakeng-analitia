@@ -1,9 +1,9 @@
 <?php
-const BASE_URL = "http://localhost/tienda-youtube/";
+const BASE_URL = "http://localhost/tienda-online/";
 const HOST = "localhost";
 const USER = "root";
 const PASS = "";
-const DB = "tienda-youtube";
+const DB = "tienda";
 const CHARSET = "charset=utf8";
 const TITLE = "TIENDA ONLINE";
 const MONEDA = "USD";
